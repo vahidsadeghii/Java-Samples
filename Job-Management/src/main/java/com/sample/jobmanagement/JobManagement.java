@@ -1,8 +1,6 @@
 package com.sample.jobmanagement;
 
 
-import com.sample.jobmanagement.job.JobHandler;
-
 import java.util.Random;
 
 public class JobManagement {

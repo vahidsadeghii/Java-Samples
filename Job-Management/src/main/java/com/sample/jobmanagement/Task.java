@@ -1,4 +1,4 @@
-package com.sample.jobmanagement.job;
+package com.sample.jobmanagement;
 
 
 @FunctionalInterface

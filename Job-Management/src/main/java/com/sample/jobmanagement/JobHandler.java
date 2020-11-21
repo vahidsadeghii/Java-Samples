@@ -1,4 +1,4 @@
-package com.sample.jobmanagement.job;
+package com.sample.jobmanagement;
 
 import lombok.Builder;
 import lombok.Data;
